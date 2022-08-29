@@ -1,0 +1,6 @@
+USE sakila;
+SHOW TABLES;
+SELECT * FROM customer;
+SET FOREIGN_KEY_CHECKS=0; 
+DELETE FROM customer WHERE customer_id = 3;
+SET FOREIGN_KEY_CHECKS=1; 
