@@ -33,9 +33,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ex_8_11.sql = ex_8_11.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "serialization_JSON", "serialization_JSON", "{860BAC97-3EF1-4B6A-94D9-7032E0E757F4}"
+	ProjectSection(SolutionItems) = preProject
+		serialization_example\Class1.cs = serialization_example\Class1.cs
+		serialization_example\ConsoleApp1.csproj = serialization_example\ConsoleApp1.csproj
+		serialization_example\Player.cs = serialization_example\Player.cs
+		serialization_example\Program.cs = serialization_example\Program.cs
+		serialization_example\Serialization_example.sln = serialization_example\Serialization_example.sln
+		serialization_example\Statistic.cs = serialization_example\Statistic.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{860BAC97-3EF1-4B6A-94D9-7032E0E757F4} = {C3EBC44A-2368-4335-8554-3C50658BF57D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE9B2739-EB85-4556-9892-C6E9962D6512}
