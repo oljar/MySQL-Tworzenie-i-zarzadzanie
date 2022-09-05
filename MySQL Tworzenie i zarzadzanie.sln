@@ -19,13 +19,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		50_5_2.DATY - operacje.sql = 50_5_2.DATY - operacje.sql
 		50_5_2.sql = 50_5_2.sql
 		8_1_3 CLI_Workbrench_tworzenie_usuwanie_baz_danych.sql = 8_1_3 CLI_Workbrench_tworzenie_usuwanie_baz_danych.sql
-		Check.sql = Check.sql
+		easy CRUD.sql = easy CRUD.sql
 		ex 13.sql = ex 13.sql
 		ex29-35.sql = ex29-35.sql
 		ex_12.sql = ex_12.sql
 		ex_16.sql = ex_16.sql
 		ex_23_24.sql = ex_23_24.sql
 		ex_25.sql = ex_25.sql
+		ex_36.sql = ex_36.sql
+		ex_52.sql = ex_52.sql
+		ex_58.sql = ex_58.sql
 		ex_5_6.sql = ex_5_6.sql
 		ex_8_11.sql = ex_8_11.sql
 	EndProjectSection
